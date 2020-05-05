@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "505403127471",
+    "firebase_url": "https://chatapp-a9aec.firebaseio.com",
+    "project_id": "chatapp-a9aec",
+    "storage_bucket": "chatapp-a9aec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505403127471:android:1b032b50fb94c2d7",
+        "android_client_info": {
+          "package_name": "com.example.puneet2singla.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505403127471-djfp19s185ecv1smusqqnf5emr890vvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.puneet2singla.chatapp",
+            "certificate_hash": "c5e760798005124491405d3f6ab71cad6bb44356"
+          }
+        },
+        {
+          "client_id": "505403127471-ito9rj4sdcf4dsisk8ku05ned84edt0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfiGxAGB655K_oRdjgZd5BBRmuy8yaG34"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505403127471-ito9rj4sdcf4dsisk8ku05ned84edt0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
